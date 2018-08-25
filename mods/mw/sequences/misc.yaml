@@ -466,11 +466,11 @@ smokland:
 		Tick: 120
 		ZOffset: 1023
 bubble:
-	idle: swamp-darker.png
+	idle: swamp.png
 		Start: 170
 		Tick: 200
 		AddExtension: false
-	die: swamp-darker.png
+	die: swamp.png
 		Start: 171
 		Length: 8
 		Tick: 500
